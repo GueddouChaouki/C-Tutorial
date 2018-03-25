@@ -1,0 +1,2 @@
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe.config
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\SqlConnection\SqlConnection\bin\Debug\SqlConnectionTest.exe.config

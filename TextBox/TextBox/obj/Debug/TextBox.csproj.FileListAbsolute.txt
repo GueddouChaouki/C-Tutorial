@@ -1,0 +1,10 @@
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\bin\Debug\TextBox.exe.config
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\bin\Debug\TextBox.exe
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\bin\Debug\TextBox.pdb
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\obj\Debug\TextBox.Form1.resources
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\obj\Debug\TextBox.csproj.GenerateResource.Cache
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\obj\Debug\TextBox.exe
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\TextBox\TextBox\obj\Debug\TextBox.pdb

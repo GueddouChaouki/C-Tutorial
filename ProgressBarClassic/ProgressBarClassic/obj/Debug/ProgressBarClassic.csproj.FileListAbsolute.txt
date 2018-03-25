@@ -1,0 +1,8 @@
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\bin\Debug\ProgressBarClassic.exe.config
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\bin\Debug\ProgressBarClassic.exe
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\bin\Debug\ProgressBarClassic.pdb
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\obj\Debug\ProgressBarClassic.Form1.resources
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\obj\Debug\ProgressBarClassic.Properties.Resources.resources
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\obj\Debug\ProgressBarClassic.csproj.GenerateResource.Cache
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\obj\Debug\ProgressBarClassic.exe
+c:\users\chaouki\documents\visual studio 2015\Projects\totu\ProgressBarClassic\ProgressBarClassic\obj\Debug\ProgressBarClassic.pdb

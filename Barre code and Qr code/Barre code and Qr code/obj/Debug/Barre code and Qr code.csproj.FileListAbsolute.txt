@@ -1,0 +1,10 @@
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\bin\Debug\Barre code and Qr code.exe.config
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\bin\Debug\Barre code and Qr code.exe
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\bin\Debug\Barre code and Qr code.pdb
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre code and Qr code.csprojResolveAssemblyReference.cache
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre_code_and_Qr_code.Form1.resources
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre_code_and_Qr_code.Properties.Resources.resources
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre code and Qr code.csproj.GenerateResource.Cache
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre code and Qr code.exe
+C:\Users\chaouki\Documents\Visual Studio 2015\Projects\totu\Barre code and Qr code\Barre code and Qr code\obj\Debug\Barre code and Qr code.pdb
